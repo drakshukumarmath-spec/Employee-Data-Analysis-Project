@@ -155,12 +155,12 @@ Feature engineering
 Business-focused data analysis
 
 ---
-### analysis
-**👩‍💻 Author**
+### 👩‍💻 Author
 
-* Drakshayani
+## Drakshayani
 
-Aspiring Data Analyst | Python | Data Analytics *
+Aspiring Data Analyst | Python | Data Analytics
+
 ---
 ⭐ If you like this project
 
